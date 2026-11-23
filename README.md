@@ -10,7 +10,7 @@ MySQL (joins, CTEs, window functions), Python (pandas) for RFM segmentation, Pow
 ## Key findings
 - 96,478 delivered orders generated about 13.22M BRL in product revenue. Average order value is 137.04.
 - Late deliveries hurt ratings: on-time orders average 4.29 stars, late orders 2.57. 8.11% of orders arrive late, and average delivery takes 12.5 days.
-- São Paulo brings about 38% of revenue. SP, RJ and MG together bring about 63%.
+- Sao Paulo brings about 38% of revenue. SP, RJ and MG together bring about 63%.
 - Late rates are highest in the northeast: MA 19.7%, CE 15.3%, BA 14.0%. RJ also has 13.5% late orders on a very large volume.
 - 97% of customers bought only once.
 - RFM segmentation: two high-value segments (47% of customers) bring about 78% of revenue.
