@@ -23,18 +23,19 @@ MySQL (joins, CTEs, window functions), Python (pandas) for RFM segmentation, Pow
 
 ## Dashboard
 
-
-![Overview](images/overview.png)
-
-
-
-
-![Delivery](images/delivery.png)
+![Overview](overview.png)
 
 
 
 
-![Customers](images/customers.png)
+
+![Delivery](delivery.png)
+
+
+
+
+
+![Customers](customers.png)
 
 
 
